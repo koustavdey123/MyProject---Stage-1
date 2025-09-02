@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "Delta_Tables_Storage"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4697c0b8-ee31-ab11-4d1e-9133367de844"
+  }
+}
