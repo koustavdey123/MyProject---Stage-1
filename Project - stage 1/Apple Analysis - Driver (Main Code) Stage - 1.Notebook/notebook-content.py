@@ -38,8 +38,8 @@ class WorkFlowRunner:
             raise ValueError(f"Not Implemented for {self.name}")
 
 # Initialize the pipeline names that you need to run
-# name = "FirstPipeline" 
-name = "SecondPipeline" 
+name = "FirstPipeline" 
+# name = "SecondPipeline" 
 
 # Call the class using object.
 workFlowrunner = WorkFlowRunner(name).runner()
